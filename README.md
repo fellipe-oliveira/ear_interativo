@@ -1,11 +1,11 @@
 # Visão geral
 
 O EAR Interativo é um painel de visualização de dados da Energia Armazenável dos reservatórios que compõem o sistema de geração de energia nacional. A solução implementada visa:
-	- Fornecer agilidade para tomada de decisões quanto à utilização da energia armazenada nos reservatórios;
-	- Agregar agilidade na construção de relatórios e execução de estudos energéticos;
-	- Verificar a possibilidade de contribuição dos reservatórios e bacias hidrográficas com a geração de energia elétrica;
-	- Obter informações sobre a bacia hidrográfica e o subsistema ao qual pertencem os aproveitamentos;
-	- Obter informações acerca do histórico de disponibilidade de energia nos reservatórios.
+- Fornecer agilidade para tomada de decisões quanto à utilização da energia armazenada nos reservatórios;
+- Agregar agilidade na construção de relatórios e execução de estudos energéticos;
+- Verificar a possibilidade de contribuição dos reservatórios e bacias hidrográficas com a geração de energia elétrica;
+- Obter informações sobre a bacia hidrográfica e o subsistema ao qual pertencem os aproveitamentos;
+- Obter informações acerca do histórico de disponibilidade de energia nos reservatórios.
 
 Os dados utilizados para a construção do painel são disponibilizados no portal Dados Abertos do Operador Nacional do Sistema Elétrico (ONS).
 
