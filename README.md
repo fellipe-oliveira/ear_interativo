@@ -9,8 +9,12 @@ O EAR Interativo é um painel de visualização de dados da Energia Armazenável
 
 Os dados utilizados para a construção do painel são disponibilizados no portal Dados Abertos do Operador Nacional do Sistema Elétrico (ONS).
 
+# Painel no Power BI
+
+![Captura de Tela 2021-11-07 às 22 37 46](https://user-images.githubusercontent.com/78424031/140671457-be4c2a37-0077-4ada-98a1-97f084672859.png)
+
 # Utilização
 
 Para utilizar a ferramenta, pode-se proceder de duas formas:
   - Acessando o painel construído no Power BI para o EAR Interativo no link https://app.powerbi.com/view?r=eyJrIjoiY2Y1ZTdmNjYtNzEyYi00ODNkLWE0Y2QtYWUwNmE3NWE1N2YwIiwidCI6IjZlN2E4Nzk1LWRmMjMtNDNmMy04ZjUyLTZiMWEzOWExNmE5YSJ9 ;
-  - Executando o Jupyter Notebook 'analise_ena.ipynb';
+  - Executando o Jupyter Notebook 'analise_ena.ipynb'.
