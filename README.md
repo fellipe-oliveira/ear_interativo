@@ -17,4 +17,4 @@ Os dados utilizados para a construção do painel são disponibilizados no porta
 
 Para utilizar a ferramenta, pode-se proceder de duas formas:
   - Acessando o painel construído no Power BI para o EAR Interativo no link https://app.powerbi.com/view?r=eyJrIjoiY2Y1ZTdmNjYtNzEyYi00ODNkLWE0Y2QtYWUwNmE3NWE1N2YwIiwidCI6IjZlN2E4Nzk1LWRmMjMtNDNmMy04ZjUyLTZiMWEzOWExNmE5YSJ9 ;
-  - Executando o Jupyter Notebook 'analise_ena.ipynb'.
+  - Executando o Jupyter Notebook 'ena_interativo.ipynb'.
