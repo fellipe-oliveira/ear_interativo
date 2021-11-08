@@ -9,7 +9,7 @@ O EAR Interativo é um painel de visualização de dados da Energia Armazenável
 
 Os dados utilizados para a construção do painel são disponibilizados no portal Dados Abertos do Operador Nacional do Sistema Elétrico (ONS).
 
-# Painel no Power BI
+# Painel interativo
 
 ![Captura de Tela 2021-11-07 às 22 37 46](https://user-images.githubusercontent.com/78424031/140671457-be4c2a37-0077-4ada-98a1-97f084672859.png)
 
